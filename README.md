@@ -4,7 +4,7 @@ This repository include the jupyter notebooks used to collect, clean and analyze
 
 While working on this project I aimed at learning how to spot undocumented API and use them to collect structured data. By working on the World Aquatics undocumented API, I wanted to have enough historical data to spot interesting trends or undocumented facts about the evolution of this sport.
 
-### Read the story : [After more than ten years, tech swimsuits are a thing of the past](https://marcodallastella.github.io/swimming)
+### [Read the story](https://marcodallastella.github.io/swimming)
 
 ## Summary of findings
 The two years of 2008 and 2009 resulted in an unprecedented wave of world records in swimming due to the introduction of advanced technology in swimsuits. After those swimsuits were banned in 2010, average times, but started decreasing faster than people expected. While world records became rarer, 2021, the average time for a top-50 race in all disciplines is remarkely lower than 2009.
