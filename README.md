@@ -18,7 +18,7 @@ The two years of 2008 and 2009 resulted in an unprecedented wave of world record
 
 ## 1. Data Collection
 
-This notebook uses the hidden API the World Aquatics to collect information regarding the top-50 times registered for every individual race since 1972 to 2023.
+This notebook uses the undocumented API the World Aquatics to collect information regarding the top-50 times registered for every individual race since 1972 to 2023.
 
 Because not all four strokes have the same races, it is composed of three sections:
 
