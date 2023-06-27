@@ -51,7 +51,7 @@ I used this notebook to analyze my dataset and see if I can spot some interestin
 * Create a pivot table counting how many times each country registered a top-50 time.
 Output: `3_countries_pivot.csv` 
 
-* Compare the average time for the top-50 times for each discipline, and focus on how this changed during the tech-swimsuit revolution of 2007 and 2008. To do so, I calculated average times in seconds for each discipline in each year, and then calculate the percentage change compared to the starting year of 1991. (This last passage was done on Excel).
+* Compare the average time for the top-50 times for each stroke, and focus on how this changed during the tech-swimsuit revolution of 2007 and 2008. To do so, I calculated average times in seconds for each discipline in each year, and then calculate the percentage change compared to the starting year of 1991. (This last passage was done on Excel).
 Output: `3_average_times_fixed.csv`.
 
 * Compare the average time for the top-50 times for each race and each stroke since 2003.
