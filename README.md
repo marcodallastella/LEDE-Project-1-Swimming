@@ -68,7 +68,7 @@ Output: `3_pivot_strokes.csv`
 
 
 ### Missed Opportunities
-Although I expectedand World Aquatics to provide a substantial and consistent I discovered that the data is much more inconsistent and noisy than I initially expected. Given more time, I would have explored alternative sources of data.
+Although I expected World Aquatics to provide a substantial and consistent I discovered that the data is much more inconsistent and noisy than I initially expected. Given more time, I would have explored alternative sources of data.
 
 I think having more time at my disposal I would have changed the first graph in order to show not only the World Records, but also other types of records (such as National, Continental and Manifestation records). Because that value was expressed in code (ex. `[0 16]` for manifestation's record) I decided to leave it there for the moment.
 
