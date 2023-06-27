@@ -40,7 +40,7 @@ I used this notebook to clean the data and extract what I needed for my analysis
 
 Output: `2_output_clean.csv`
 
-* Reduce the dataset to havea coherent set of entries for each year and for yeach discipline. I decided to choose 2003 as my starting year, since years before that had inconsistent data.
+* Reduce the dataset to have a coherent set of entries for each year and for yeach discipline. I decided to choose 2003 as my starting year, since years before that had inconsistent data.
 
 Output: `2_output_2003.csv` file.
 
