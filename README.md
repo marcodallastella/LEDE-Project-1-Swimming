@@ -7,7 +7,7 @@ While working on this project I aimed at learning how to spot undocumented API a
 ### [Read the story](https://marcodallastella.github.io/swimming)
 
 ## Summary of findings
-The two years of 2008 and 2009 resulted in an unprecedented wave of world records in swimming due to the introduction of advanced technology in swimsuits. After those swimsuits were banned in 2010, average times, but started decreasing faster than people expected. While world records became rarer, 2021, the average time for a top-50 race in all disciplines is remarkely lower than 2009.
+The two years of 2008 and 2009 resulted in an unprecedented wave of world records in swimming due to the introduction of advanced technology in swimsuits. After those swimsuits were banned in 2010, average times among top-50 rankings increased, but soon started decrease again and by 2020 they were already around the times recorded during the tech-swimsuits era. While world records became scarcer, by 2021 the average time for a top-50 race in all disciplines is remarkely lower than 2009.
 
 
 ### Notebooks:
