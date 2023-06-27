@@ -63,7 +63,7 @@ Output: `3_pivot_strokes.csv`
 ### Tools, skills, approaches
 * I used [this guide](https://inspectelement.org/apis.html) to find the undocumented API of [World Aquatics](https://www.worldaquatics.com/swimming/rankings?).
 * I used nested `for loops` to get data for different strokes, in different disciplines and `append` to add them to a pandas dataframe object.
-* I used `pandas` to clean the data and format it in a way that could serve my scope. In particular, i formatted the `time` value in a `timedelta` object to convert it into seconds and calculate the average.
+* I used `pandas` to clean the data and format it in a way that could serve my scope. In particular, i formatted the `time` value in a `timedelta` object to convert it into seconds and calculate the average. This passage was not as straigthforward as I hoped, as it required to assign all times to the same HH:MM:SS format.
 * I used `pivot_table` and `matplotlib` to review my data, spot trends and errors.
 
 
